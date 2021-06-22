@@ -1,0 +1,21 @@
+{
+	"name": "theme-b-black",
+	"displayName": "B - Black",
+	"description": "B - Black es un Tema Personalizado para VS Code",
+	"icon": "b-black_ico.png",
+	"version": "1.0.0",
+	"publisher": "X_Brayan_X",
+	"license": "",
+	"engines": {
+		"vscode": "^1.24.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "B-Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/b-black-color-theme.json"
+			}
+		]
+	}
+}
